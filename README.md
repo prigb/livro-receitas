@@ -1,7 +1,7 @@
-#Livro de Receitas
+# Livro de Receitas
 
 Olá, seja bem vindo ao meu livro de receitas.
 
-#Index
+# Index
 
 	*Receita de Torta de Limão
