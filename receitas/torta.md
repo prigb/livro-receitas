@@ -1,6 +1,6 @@
-#Torta de Limão
+# Torta de Limão
 
-##INGREDIENTES
+## INGREDIENTES
 _Para a Massa_
 
     1 pacote de bolacha maisena
@@ -13,7 +13,7 @@ _Para o Recheio_
     suco de 2 limões
     raspas de limão a gosto (para decorar)
 
-##COMO FAZER TORTA DE LIMÃO COM MASSA DE BISCOITO
+## COMO FAZER TORTA DE LIMÃO COM MASSA DE BISCOITO
 _Modo de Preparo da Massa_
 
     Bata as bolachas maisena no liquidificador ou no processador até obter uma farinha fina.
@@ -22,11 +22,10 @@ _Modo de Preparo da Massa_
     Leve para assar em forno médio preaquecido por 10 a 15 minutos.
     Retire do forno e espere esfriar.
 
-Modo de Preparo do Recheio
+_Modo de Preparo do Recheio_
 
     No liquidificador, bata o leite condensado, o creme de leite e o suco de limão, até obter uma mistura homogênea.
     Coloque sobre a massa de bolacha já fria e decore com raspas de limão a gosto.
     Leve à geladeira por cerca de 4 horas.
     Sirva gelada.
 
-Abaixo um vídeo de como fazer a torta de limão, passo a passo.
